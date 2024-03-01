@@ -20,8 +20,6 @@ class Node {
 				delete next;
 				next = NULL;
 			}
-			
-//			cout<<"Memory free from Node with value: "<<value<<endl;
 		}
 		
 };
